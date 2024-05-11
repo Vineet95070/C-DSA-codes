@@ -1,0 +1,4 @@
+namespace Btech{
+	
+	void display();
+}
